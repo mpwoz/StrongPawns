@@ -1,0 +1,3 @@
+# Changelog for StrongPawns
+
+1.0.0 - initial release with fix for rimworld 1.6
