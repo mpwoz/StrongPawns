@@ -19,12 +19,8 @@
   </loadAfter>
   <description>
     Increases default pawn carrying capacity to 750 (still affected by things like wounds/bionics/etc.)
-    <br />
-    <br />
-
 
     IMPORTANT
-    <br />
 
     This won't seem to have any effect on its own. You'll want a combination of other mods, depending on what you're looking for:
 
@@ -36,20 +32,13 @@
 
     With all 3 of the above, one pawn can essentially "sweep" the entire set of starting items straight to a stockpile, and a single colonist can caravan with tons of steel across the world map.
 
-    <br />
-    <br />
-
     WHY A NEW MOD?
-    <br />
 
     (gory technical details follow)
 
     This mod is a replacement for my old "10x Carrying Capacity" mod, fixed to work with Rimworld 1.6. https://steamcommunity.com/sharedfiles/filedetails/?id=1477183263
-    <br />
 
     The old mod used a simple .xml patch to modify the base pawn carrying capacity. Unfortunately, in 1.6 the devs decided it's a great idea to no longer use this stat, and instead use an arbitrary calculation defined in C# to determine how much pawns can carry the mass calculator. So that's why the old mod no longer does anything, even though the carrying capacity still appears to be changed in the pawn's info screen.
-
-    <br />
 
     A side effect of this change is that this mod now requires harmony to function, since it has to patch the C# method instead of simply overriding an xml path.
 
