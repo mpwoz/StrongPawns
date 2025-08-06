@@ -1,5 +1,7 @@
 # Changelog for StrongPawns
 
+1.2.0 - Made the carrying capacity configurable in the Mod Settings page.
+
 1.1.0 - Updated mass calculation to prevent huge values like 14,000 happening due to compounding multiplication. The logic now simply sets all pawns' capacity to 750, just like the original mod.
 
 1.0.0 - initial release with fix for rimworld 1.6
