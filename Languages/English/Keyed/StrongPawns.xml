@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<StrongPawns.CarryingCapacity.Title>Pawn Carrying Capacity</StrongPawns.CarryingCapacity.Title>
+	<StrongPawns.CarryingCapacity.Description>All pawns' carrying capacity will be overridden by this value. Note that you need a mod like Pick Up And Haul and/or Ogre Stack for pawns to utilize this extra capacity to its fullest.</StrongPawns.CarryingCapacity.Description>
+</LanguageData>
