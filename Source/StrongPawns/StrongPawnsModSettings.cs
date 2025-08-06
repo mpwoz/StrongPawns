@@ -20,7 +20,7 @@
             listingStandard.Begin(inRect);
 
             listingStandard.Label(
-                "StrongPawns.CarryingCapacity.Title".Translate() + ": " + this.CarryingCapacity,
+                "StrongPawns.CarryingCapacity.Title".Translate(),
                 tooltip: "StrongPawns.CarryingCapacity.Description".Translate());
 
             // Text field for numeric input
